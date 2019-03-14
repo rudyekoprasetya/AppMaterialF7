@@ -1,0 +1,19 @@
+{
+  "name": "com.example.material",
+  "version": "1.0.0",
+  "displayName": "Material",
+  "cordova": {
+    "platforms": [
+      "browser",
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    }
+  },
+  "dependencies": {
+    "cordova-browser": "~5.0.3",
+    "cordova-plugin-whitelist": "1",
+    "cordova-android": "~7.0.0"
+  }
+}
